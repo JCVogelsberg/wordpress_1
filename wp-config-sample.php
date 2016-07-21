@@ -26,7 +26,7 @@ define('DB_NAME', 'database_name_here');
 define('DB_USER', 'username_here');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'only an idiot would fail to add wp-config.php to their .gitignore file!');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
