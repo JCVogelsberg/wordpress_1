@@ -1,5 +1,5 @@
 # wordpress_1
-=======
+====
 
 This site is basically a sandbox for me to play in as I learn WordPress. It is hosted on my local machine using MAMP. It is built on the Genesis Framework, using a customized child theme. Caching is done with WP Super Cache, and it is backed up to Dropbox daily using BackWPup.
 
@@ -14,4 +14,3 @@ My Plugins:
 	WP Super Cache
 
 
-	
