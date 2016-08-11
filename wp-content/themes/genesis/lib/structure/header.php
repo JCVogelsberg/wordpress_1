@@ -11,7 +11,6 @@
  * @link    http://my.studiopress.com/themes/genesis/
  */
 
-
 add_action( 'genesis_doctype', 'genesis_do_doctype' );
 /**
  * Echo the doctype and opening markup.
@@ -81,7 +80,7 @@ function genesis_do_title() {
 	}
 
 	echo '<title>';
-	wp_title( 'splorge' );
+	wp_title( '' );
 	echo '</title>';
 
 }
